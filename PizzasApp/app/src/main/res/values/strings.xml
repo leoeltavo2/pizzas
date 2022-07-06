@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PIZZAS EL WONKONG</string>
+
+    <string-array name="pizzas">
+        <item>Pepperoni</item>
+        <item>Hawaiana</item>
+        <item>Vegetariana</item>
+        <item>Mexicana</item>
+        <item>Mariscos</item>
+    </string-array>
+</resources>
